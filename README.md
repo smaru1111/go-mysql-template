@@ -1,6 +1,6 @@
 # go-mysql-template
 
-Go(GORM + Gin) + MySQL の API サーバーのテンプレート
+Go(GORM + Gin) + PostgreSQL の API サーバーのテンプレート
 
 ## 使いかた
 
@@ -22,3 +22,6 @@ postman とかで、`POST localhost:8080/memos` に以下の JSON を送ると�
 ```
 
 localhost:8080/memos にアクセスすると、DB の中身が表示される。
+
+## 参考記事
+https://pontaro.net/1305/
