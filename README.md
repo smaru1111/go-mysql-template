@@ -1,4 +1,4 @@
-# go-mysql-template
+# go-postgreSQL-template
 
 Go(GORM + Gin) + PostgreSQL の API サーバーのテンプレート
 
